@@ -38,8 +38,8 @@
 
 ## System Requirements
 
-- [git][git] v2 or greater
-- [NodeJS][node] v10 or greater
+- [git][git] v2.13 or greater
+- [NodeJS][node] v10.13 or greater
 - [npm][npm] v6 or greater
 
 All of these must be available in your `PATH`. To verify things are set up
@@ -70,7 +70,10 @@ This may take a few minutes. **It will ask you for your email.** This is
 optional and just automatically adds your email to the links in the project to
 make filling out some forms easier.
 
-A few common issues during `npm run setup --silent` have involved PATH variables (above links or [here](https://github.com/kentcdodds/react-fundamentals/issues/27)), reinstalling git, node, or npm, and clearing npm caches.
+A few common issues during `npm run setup --silent` have involved PATH variables
+(above links or
+[here](https://github.com/kentcdodds/react-fundamentals/issues/27)),
+reinstalling git, node, or npm, and clearing npm caches.
 
 If you get any errors, please read through them and see if you can find out what
 the problem is. If you can't work it out on your own then please [file an
@@ -170,6 +173,9 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/FelixGeelhaar"><img src="https://avatars0.githubusercontent.com/u/6020564?v=4" width="100px;" alt=""/><br /><sub><b>Felix Geelhaar</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=FelixGeelhaar" title="Documentation">📖</a></td>
     <td align="center"><a href="https://twitter.com/apolakipso"><img src="https://avatars2.githubusercontent.com/u/494674?v=4" width="100px;" alt=""/><br /><sub><b>Apola Kipso</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=apolakipso" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/dcgoodwin2112"><img src="https://avatars1.githubusercontent.com/u/4554388?v=4" width="100px;" alt=""/><br /><sub><b>dcgoodwin2112</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/issues?q=author%3Adcgoodwin2112" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/pritamsangani/"><img src="https://avatars3.githubusercontent.com/u/22857896?v=4" width="100px;" alt=""/><br /><sub><b>Pritam Sangani</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=PritamSangani" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rchinerman"><img src="https://avatars3.githubusercontent.com/u/17489675?v=4" width="100px;" alt=""/><br /><sub><b>Ryan Hinerman</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=rchinerman" title="Documentation">📖</a> <a href="https://github.com/kentcdodds/react-fundamentals/commits?author=rchinerman" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Marcoj776"><img src="https://avatars0.githubusercontent.com/u/9052097?v=4" width="100px;" alt=""/><br /><sub><b>Marco</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/issues?q=author%3AMarcoj776" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
