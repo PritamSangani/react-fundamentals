@@ -1,9 +1,11 @@
 <body>
-  <div id="root"></div>
   <script type="module">
-    const div = document.createElement('div')
-    div.textContent = 'Hello World'
-    div.className = 'container'
-    document.getElementById('root').append(div)
+    const rootElement = document.createElement('div')
+    rootElement.id = 'root'
+    const containerElement = document.createElement('div')
+    containerElement.textContent = 'Hello World'
+    containerElement.className = 'container'
+    rootElement.append(containerElement)
+    document.body.append(rootElement)
   </script>
 </body>
